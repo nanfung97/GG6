@@ -17,6 +17,7 @@ public class G6sample {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("ddsds");
+        System.out.println("ddsertewrtverwvds");
     }
     
 }
