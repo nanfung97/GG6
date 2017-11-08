@@ -19,6 +19,7 @@ public class G6sample {
         System.out.println("ddsds");
         System.out.println("ddsertewrtverwvds");
         System.out.println("dadasdd");
+        System.out.println("hgfhcbd");
     }
     
 }
